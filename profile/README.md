@@ -1,4 +1,4 @@
-![GPCare banner](../gpcarebanner.png)
+![GPCare banner](gpcarebanner.png)
 
 As general practitioners of JavaScript, we believe in the power of this versatile and expressive language
 to create innovative and impactful software solutions.
